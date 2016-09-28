@@ -1,0 +1,2 @@
+# AR_project
+These repository includes all of the data from the AR gene hits, sorted by method.  The subset .faa files only include those prokka-predicted proteins that hit to an AR sequence, not the metagenomes or the entirety of the original prokka outputs.  Metagenomes are from Woodcroft B, Singleton C, Evans P, Wilson R, Hodgkins S, Chanton J, Saleska S, Rich VI, Tyson GW. Microbial community response to permafrost thaw across a natural gradient via shallow metagenome profiling. In prep.
